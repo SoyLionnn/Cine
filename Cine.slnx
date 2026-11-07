@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Cine/Cine.vcxproj" Id="40486871-0872-48dd-929f-9718d7f61652" />
+  <Project Path="CineApp/CineApp.vcxproj" />
+</Solution>
